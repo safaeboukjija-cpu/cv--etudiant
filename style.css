@@ -1,0 +1,21 @@
+body {
+background-color: rgb(154, 154, 140);
+}
+.card{
+    text-align: center;
+    background-color:rgb(68, 68, 163);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 0%;
+    img{
+    border-radius: 100%;
+}
+}
+.cv{
+    background-color: white;
+    margin: 20px;
+    padding: 10px;
+}
+.cv:hover{
+    background-color: rgb(137, 56, 27);
+}
